@@ -1,0 +1,27 @@
+.main {
+  width: 100%;
+  background-color: red;
+  display: flex;
+}
+
+.form {
+  width: 50%;
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.notes {
+  width: 50%;
+  background-color: green;
+}
+.notesButton {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
